@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>movies box</title>
+</head>
+<body bgcolor="skyblue">
+<center><b>MOVIES INFO</b></center><br>
+<table>
+<table border="1" cellpadding="20">
+<tr>
+<th><font color="yellow">ID</font></th>
+<th><font color="yellow">MOVIE NAME</font></th>
+<th><font color="yellow">ACTOR</font></th>
+<th><font color="yellow">ACTRESS</font></th>
+<th><font color="yellow">YEAR OF RELEASE</font></th>
+<th><font color="yellow">DIRECTOR NAME</font></th>
+</tr>
+<tr>
+<td>1</td>
+<td>24</td>
+<td>Surya</td>
+<td>Samantha</td>
+<td>2016</td>
+<td>Vikram kumar</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mersal</td>
+<td>Vijay</td>
+<td>Samantha,kajal</td>
+<td>2017</td>
+<td>Atlee kumar</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Viswasam</td>
+<td>Ajith kumar</td>
+<td>Nayanthara</td>
+<td>2019</td>
+<td>Siva</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Irumugan</td>
+<td>Vikram</td>
+<td>Nithyamenon</td>
+<td>2016</td>
+<td>Anand shankar</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Asuran</td>
+<td>Dhanush</td>
+<td>Manju warrior</td>
+<td>2019</td>
+<td>Vetrimaaran</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
